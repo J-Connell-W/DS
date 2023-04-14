@@ -62,15 +62,19 @@ This is the number or non null or non-NA observations in the data for that featu
 
 ### Mean
 
-The mean of the values for that feature
+The mean of the values for that feature. This can be used to see what potential outliers are in the data.
+
+<br/>
 
 ### Standard Deviation
 
-The standard deviation, which measures the dispersion or spread of the non-missing values in each feature.
+The standard deviation, which measures the dispersion or spread of the non-missing values in each feature. This can help to show how far apart the values are from eachother in a particular category. Can be used to determine how to scale the data.
+
+<br/>
 
 ### Min
 
-The minimum value for the feature that is not NA
+The minimum value for the feature that is not NA. Helpful for seeing the range of the data.
 
 <br/>
 
