@@ -8,7 +8,7 @@ Another step is to start to find out where relationships between variables may e
 <br/><br/>
 The goal is to have the possibly messy and unrefined data set come to you; clean it by fixing the aforementioned problems, then output a data set that is useful for a model.
 <br/><br/>
-# Some definitions provided by gpt-4 I am curious if they are accurate. 
+### Some definitions provided by gpt-4 I am curious if they are accurate. 
 <br/>
 <br/>
 <h3> Data cleaning: </h3> 
