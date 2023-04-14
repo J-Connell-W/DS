@@ -13,6 +13,7 @@ The goal is to have the possibly messy and unrefined data set come to you; clean
 <br/>
 <h3> Data cleaning: </h3> 
 <br/>
+
 Handle missing values, remove duplicates, and correct inconsistencies in the data. This ensures that the model learns from accurate and consistent information.
 
 <br/>
