@@ -17,19 +17,24 @@ Handle missing values, remove duplicates, and correct inconsistencies in the dat
 <br/>
 <br/>
 ### Feature engineering: 
+</br>
 Create new features or transform existing ones to better represent the underlying patterns in the data. This can help the model capture the relationships more effectively.
 </br></br>
 For my understanding I will add that it can include the acts of combining certain variables into one, and it is just overall manipulating the data into a usable form.
 <br/><br/>
 ### Feature selection: 
+</br>
 Identify the most relevant features for the task at hand, which can help improve model performance, reduce overfitting, and speed up training.
 
 <br/><br/>
 ### Scaling and normalization: 
+</br>
 Standardize the features so that they have similar scales and ranges, which can help some models converge faster and perform better.
 <br/><br/>
 ### Encoding categorical variables: 
+</br>
 Convert categorical variables into numerical representations (e.g., one-hot encoding) that can be fed into the model.
 <br/><br/>
 ### Handling imbalanced data sets: 
+</br>
 If the target variable has imbalanced classes, you might need to resample the data or use appropriate evaluation metrics to ensure that the model doesn't become biased towards the majority class.
