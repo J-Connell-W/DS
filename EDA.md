@@ -30,6 +30,7 @@ Identify the most relevant features for the task at hand, which can help improve
 ### Scaling and normalization: 
 </br>
 Standardize the features so that they have similar scales and ranges, which can help some models converge faster and perform better.
+
 <br/><br/>
 ### Encoding categorical variables: 
 </br>
