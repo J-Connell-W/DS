@@ -47,3 +47,53 @@ Convert categorical variables into numerical representations (e.g., one-hot enco
 ### Handling imbalanced data sets: 
 </br>
 If the target variable has imbalanced classes, you might need to resample the data or use appropriate evaluation metrics to ensure that the model doesn't become biased towards the majority class.
+
+
+
+## Some steps to start
+
+It seems that we want to be able to see different ways that the data is structured using some commands such as the pandas dataframe.describe method this allows us to see some statistics about the data such as its:
+
+### Count
+
+This is the number or non null or non-NA observations in the data for that feature
+
+<br/>
+
+### Mean
+
+The mean of the values for that feature
+
+### Standard Deviation
+
+The standard deviation, which measures the dispersion or spread of the non-missing values in each feature.
+
+### Min
+
+The minimum value for the feature that is not NA
+
+<br/>
+
+### 25%
+
+The first quartile (25th percentile), which is the value below which 25% of the non-missing values in each feature fall.
+
+<br/>
+
+### 50%
+
+The median (second quartile or 50th percentile), which is the value that separates the lower 50% from the upper 50% of the non-missing values in each feature.
+
+<br/>
+
+### 75%
+
+The third quartile (75th percentile), which is the value below which 75% of the non-missing values in each feature fall.
+
+<br/>
+
+### 100%
+
+The maximum value of the non-missing values in each feature.
+
+<br/>
