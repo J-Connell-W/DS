@@ -18,7 +18,9 @@ Handle missing values, remove duplicates, and correct inconsistencies in the dat
 
 <br/>
 <br/>
+
 ### Feature engineering: 
+
 </br>
 Create new features or transform existing ones to better represent the underlying patterns in the data. This can help the model capture the relationships more effectively.
 </br></br>
