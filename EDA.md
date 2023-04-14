@@ -14,24 +14,24 @@ The goal is to have the possibly messy and unrefined data set come to you; clean
 #### Data cleaning: Handle missing values, remove duplicates, and correct inconsistencies in the data. This ensures that the model learns from accurate and consistent information.
 
 </br>
-#### Feature engineering: 
+### Feature engineering: 
 Create new features or transform existing ones to better represent the underlying patterns in the data. This can help the model capture the relationships more effectively.
 
 For my understanding I will add that it can include the acts of combining certain variables into one, and it is just overall manipulating the data into a usable form.
 
 </br>
-#### Feature selection: 
+### Feature selection: 
 Identify the most relevant features for the task at hand, which can help improve model performance, reduce overfitting, and speed up training.
 
 
 </br>
-#### Scaling and normalization: 
+### Scaling and normalization: 
 Standardize the features so that they have similar scales and ranges, which can help some models converge faster and perform better.
 
 </br>
-#### Encoding categorical variables: 
+### Encoding categorical variables: 
 Convert categorical variables into numerical representations (e.g., one-hot encoding) that can be fed into the model.
 
 </br>
-#### Handling imbalanced data sets: 
+### Handling imbalanced data sets: 
 If the target variable has imbalanced classes, you might need to resample the data or use appropriate evaluation metrics to ensure that the model doesn't become biased towards the majority class.
