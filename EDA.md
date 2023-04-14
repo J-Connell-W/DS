@@ -11,7 +11,9 @@ The goal is to have the possibly messy and unrefined data set come to you; clean
 # Some definitions provided by gpt-4 I am curious if they are accurate. 
 </br>
 </br>
-### Data cleaning: Handle missing values, remove duplicates, and correct inconsistencies in the data. This ensures that the model learns from accurate and consistent information.
+### Data cleaning: 
+</br>
+Handle missing values, remove duplicates, and correct inconsistencies in the data. This ensures that the model learns from accurate and consistent information.
 </br>
 </br>
 ### Feature engineering: 
