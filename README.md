@@ -2,4 +2,4 @@
 
 ## Table of Contents
 
-1. [Exploratory Data Analysis](./EDA)
+1. [Exploratory Data Analysis](./EDA.md)
